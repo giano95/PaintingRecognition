@@ -1,0 +1,15 @@
+env
+**/*.pyc
+**/__pycache__
+*.env
+data
+paintings_db
+SRN-Deblur
+yolo-coco
+input/*
+
+# Accept these files in the repository
+!.gitignore
+!.travis.yml
+/.env
+/.vscode
