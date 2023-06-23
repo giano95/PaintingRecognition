@@ -1,6 +1,6 @@
 # Painting Recognition
 
-[embed]https://github.com/giano95/PaintingRecognition/edit/main/ReportFinale.pdf[/embed]
+[report_1](./foto_presentazione/report_1.png)
 
 ## Prerequisities
 - Python 3.6.5
