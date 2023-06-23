@@ -1,6 +1,11 @@
 # Painting Recognition
 
 ![report_1](./foto_presentazione/report_1.png)
+![report_2](./foto_presentazione/report_2.png)
+![report_3](./foto_presentazione/report_3.png)
+![report_4](./foto_presentazione/report_4.png)
+![report_5](./foto_presentazione/report_5.png)
+
 
 ## Prerequisities
 - Python 3.6.5
