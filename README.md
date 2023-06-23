@@ -1,6 +1,6 @@
 # Painting Recognition
 
-[report_1](./foto_presentazione/report_1.png)
+![report_1](./foto_presentazione/report_1.png)
 
 ## Prerequisities
 - Python 3.6.5
